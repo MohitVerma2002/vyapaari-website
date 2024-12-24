@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vyapaari-website/static/css/main.baaba638.css",
-    "main.js": "/vyapaari-website/static/js/main.280804cd.js",
+    "main.js": "/vyapaari-website/static/js/main.28eb4e9f.js",
     "static/js/213.edc536e4.chunk.js": "/vyapaari-website/static/js/213.edc536e4.chunk.js",
     "static/js/455.8e07e52f.chunk.js": "/vyapaari-website/static/js/455.8e07e52f.chunk.js",
     "static/media/invoice.jpg": "/vyapaari-website/static/media/invoice.cde90e3191ad2f3e0dee.jpg",
@@ -10,12 +10,12 @@
     "static/media/image2.webp": "/vyapaari-website/static/media/image2.4dff97039a1d559d9c22.webp",
     "index.html": "/vyapaari-website/index.html",
     "main.baaba638.css.map": "/vyapaari-website/static/css/main.baaba638.css.map",
-    "main.280804cd.js.map": "/vyapaari-website/static/js/main.280804cd.js.map",
+    "main.28eb4e9f.js.map": "/vyapaari-website/static/js/main.28eb4e9f.js.map",
     "213.edc536e4.chunk.js.map": "/vyapaari-website/static/js/213.edc536e4.chunk.js.map",
     "455.8e07e52f.chunk.js.map": "/vyapaari-website/static/js/455.8e07e52f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.baaba638.css",
-    "static/js/main.280804cd.js"
+    "static/js/main.28eb4e9f.js"
   ]
 }
